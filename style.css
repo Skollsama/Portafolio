@@ -1,0 +1,65 @@
+body {
+    background-color: #DAFFFB;
+}
+.navbar {
+    background-color: #001C30;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-nombre {
+    color: white;
+    font-size: 23px;
+}
+
+.section-trabajo {
+    display: flex;
+    background-color: #176B87;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    color: white;
+    font-size: 23px;
+}
+
+
+.section-educacion {
+    display: flex;
+    background-color: #176B87;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    color: white;
+    font-size: 23px;
+}
+
+.portafolio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+    flex-direction: column;
+    
+}
+
+.portafolio img{
+    margin-bottom: 30px;
+}
+
+.portafolio-text {
+    color: #176B87;
+    position: absolute;
+    top: 34%;
+    left: 46%;
+}
+
+
